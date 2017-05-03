@@ -30,6 +30,6 @@ $lang['contact msg send_success']       = "Gracias por contactarnos, %s! Su mens
 $lang['contact msg updated']            = "Mensaje actualizado!";
 
 // Errors
-$lang['contact error captcha']          = "The CAPTCHA text did not match.";
+$lang['contact error captcha']          = "El texto CAPTCHA no coincide.";
 $lang['contact error send_failed']      = "Lo sentimos, %s. Hubo un problema al enviar su mensaje. Por favor, vuelva a intentarlo.";
 $lang['contact error update_failed']    = "No se pudo actualizar el estado.";
